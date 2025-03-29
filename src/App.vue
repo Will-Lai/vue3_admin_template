@@ -1,21 +1,15 @@
 <script setup lang="ts">
-const fun = () =>
-
-
-{
-
-
-
+const fun = () => {
   console.log('i love')
 }
 
 fun()
 
-
-for(let i = 0;i<100;i++)
-{
-  console.log(i);
+for (let i = 0; i < 100; i++) {
+  console.log(i)
 }
+
+let str = "test hahaha";
 </script>
 
 <template>
