@@ -10,6 +10,12 @@ const fun = () =>
 }
 
 fun()
+
+
+for(let i = 0;i<100;i++)
+{
+  console.log(i);
+}
 </script>
 
 <template>
