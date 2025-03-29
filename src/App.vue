@@ -1,5 +1,11 @@
 <script setup lang="ts">
-const fun = () => {
+const fun = () =>
+
+
+{
+
+
+
   console.log('i love')
 }
 
